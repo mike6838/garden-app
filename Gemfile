@@ -15,12 +15,9 @@ gem 'thin'
 gem 'activesupport'
 gem 'activerecord'
 
-#face recognition
-
 
 gem 'rake'
-
-gem 'shotgun'		
+gem 'shotgun'
 
 group :test do
   gem 'shoulda-matchers'
