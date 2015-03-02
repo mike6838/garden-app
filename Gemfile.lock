@@ -52,22 +52,39 @@ GEM
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
       rspec-mocks (~> 3.2.0)
+<<<<<<< HEAD
     rspec-core (3.2.1)
+=======
+    rspec-core (3.2.0)
+>>>>>>> 724863454c4c788440534a0cd26974c43d3c241a
       rspec-support (~> 3.2.0)
     rspec-expectations (3.2.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.2.0)
+<<<<<<< HEAD
     rspec-mocks (3.2.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.2.0)
     rspec-support (3.2.2)
     rubyzip (1.1.7)
     selenium-webdriver (2.45.0)
+=======
+    rspec-mocks (3.2.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.2.0)
+    rspec-support (3.2.1)
+    rubyzip (1.1.7)
+    selenium-webdriver (2.44.0)
+>>>>>>> 724863454c4c788440534a0cd26974c43d3c241a
       childprocess (~> 0.5)
       multi_json (~> 1.0)
       rubyzip (~> 1.0)
       websocket (~> 1.0)
+<<<<<<< HEAD
     shotgun (0.9.1)
+=======
+    shotgun (0.9)
+>>>>>>> 724863454c4c788440534a0cd26974c43d3c241a
       rack (>= 1.0)
     shoulda-matchers (2.8.0)
       activesupport (>= 3.0.0)
