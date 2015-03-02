@@ -40,14 +40,10 @@ configure do
   set :views, File.join(Sinatra::Application.root, "app", "views")
 end
 
-<<<<<<< HEAD
 configure :development do
   set :bind, '0.0.0.0'
   set :port, 3000
 end 
-=======
-
->>>>>>> 724863454c4c788440534a0cd26974c43d3c241a
 
 # Set up the controllers and helpers
 Dir[APP_ROOT.join('app', 'controllers', '*.rb')].each { |file| require file }
