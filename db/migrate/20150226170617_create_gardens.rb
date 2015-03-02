@@ -5,7 +5,7 @@ class CreateGardens < ActiveRecord::Migration
       t.string :city
       t.string :state
       t.integer :zipcode
-      t.references :creator :through :user
+      t.references :creator, through: :user
 
       t.timestamps
     end
